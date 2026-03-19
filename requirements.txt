@@ -1,0 +1,6 @@
+﻿gymnasium>=0.29.1,<1.1.0
+stable-baselines3>=2.5.0,<3.0
+huggingface-sb3>=3.0.0
+numpy>=1.23
+PyYAML>=6.0
+tensorboard>=2.10
